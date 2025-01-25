@@ -17,8 +17,19 @@ function App() {
         <h2 className="company-name">Maha Naga Kali LLC</h2>
         <div className="decorative-line"></div>
         <p className="tagline">Embracing Divine Energy & Professional Excellence</p>
-        <div className="cta-container">
-          <button className="cta-button">Explore Our Services</button>
+        
+        <div className="announcement-banner">
+          <div className="sparkle-icon">✧</div>
+          <p>Something extraordinary is coming soon...</p>
+          <div className="sparkle-icon">✧</div>
+        </div>
+
+
+        <div className="contact-info">
+          <p>Connect with us</p>
+          <a href="mailto:info@mnkllc.org" className="email-link">
+            info@mnkllc.org
+          </a>
         </div>
       </div>
     </div>
