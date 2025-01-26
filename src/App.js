@@ -20,7 +20,7 @@ function App() {
         
         <div className="announcement-banner">
           <div className="sparkle-icon">✧</div>
-          <p>Something extraordinary is coming soon...</p>
+          <p>An extraordinary product is launching soon!...</p>
           <div className="sparkle-icon">✧</div>
         </div>
 
