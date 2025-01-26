@@ -16,7 +16,7 @@ function App() {
         <h1>Welcome to</h1>
         <h2 className="company-name">Maha Naga Kali LLC</h2>
         <div className="decorative-line"></div>
-        <p className="tagline">Embracing Divine Energy & Professional Excellence</p>
+        <p className="tagline">Embracing Innovation & Professional Excellence</p>
         
         <div className="announcement-banner">
           <div className="sparkle-icon">✧</div>
